@@ -1224,3 +1224,19 @@
 			text-align: center;
 			display: block;
 		}
+
+		#one{
+			width: 100%;
+			height: auto;
+		}
+		.box{
+			margin-bottom: 0px;
+		}
+
+		.carre{
+			height: 30%;
+			width: 30%;
+			display: inline-block;
+			margin-left: 0px;
+		}
+
